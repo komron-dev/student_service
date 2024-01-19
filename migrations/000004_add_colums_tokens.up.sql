@@ -1,0 +1,3 @@
+ALTER TABLE students
+ADD COLUMN access_token TEXT NOT NULL,
+ADD COLUMN refresh_token TEXT NOT NULL;

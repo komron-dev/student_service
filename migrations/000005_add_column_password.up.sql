@@ -1,0 +1,2 @@
+ALTER TABLE students
+ADD COLUMN password TEXT NOT NULL;
